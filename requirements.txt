@@ -10,3 +10,5 @@ seaborn
 sktime
 tqdm
 tsfresh
+h5py
+mcfly
